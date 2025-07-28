@@ -86,7 +86,7 @@ opentelemetry-util-http==0.56b0
 orjson==3.11.1
 overrides==7.7.0
 packaging==24.2
-pandas==2.0.3
+pandas==2.1.4
 pillow==10.4.0
 posthog==6.3.1
 propcache==0.3.2
